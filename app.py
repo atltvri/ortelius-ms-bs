@@ -17,18 +17,3 @@ def bubble_sort():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-
-    ###import json;
-
-#def bubble_sort(list):
- #   for i in range(0,len(list)-1):
-  #      for j in range(len(list)-1):
-   #         if(list[j]>list[j+1]):
-    #            temp=list[j]
-     ##          list[j+1]=temp
-    #return json.dumps(list)
-
-#list=[10,1,200,-19,21,321,0,200]
-#json_list=bubble_sort(list)
-
